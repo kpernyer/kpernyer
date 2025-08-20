@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kpernyer
-- 👀 I’m interested in building a new enterprise application for strategy alignment
-- 🌱 I’m currently learning Flutter and Dart for the mobile and MCP/RAG for context rich conversational APIs
+- 👀 I’m building a new enterprise application for strategy alignment
 - 📫 Reach me at kenneth@pernyer.se
 
 <!---
