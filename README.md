@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kpernyer
-- 👀 I’m building a new enterprise application for strategy alignment
+- 👀 I’m building software targeted at agents and humans.
 - 📫 Reach me at kenneth@pernyer.se
 
 <!---
